@@ -1,0 +1,15 @@
+title: |-
+  Install build tools
+summary: |
+  Verifies that all tools that are managed by asdf have their correct versions installed and if not, it downloads and installs them
+description: |
+  Use this Step to update any tools that are managed by asdf
+website: https://github.com/atanas-bitrise/steps-install-build-tools
+source_code_url: https://github.com/atanas-bitrise/steps-install-build-tools.git
+support_url: https://github.com/atanas-bitrise/steps-install-build-tools/issues
+type_tags:
+  - utility
+
+is_requires_admin_user: true
+is_always_run: false
+is_skippable: false
